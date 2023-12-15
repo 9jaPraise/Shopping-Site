@@ -1,0 +1,24 @@
+body{
+    font-size: 18px;
+}
+.navbar-toggler-icon{
+color:white;
+}
+
+.navbar-toggler:focus{
+    outline:none;
+    box-shadow: none;
+    }
+
+#card-row{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+}
+
+.product-img{
+    object-fit:cover;
+}
+
+
+
